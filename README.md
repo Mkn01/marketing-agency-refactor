@@ -1,2 +1,4 @@
 # marketing-agency-refactor
-Refactor a marketing agency website to use semantic HTML.
+
+Refactoring a marketing agency website to use semantic HTML.
+link to GitHub page:
