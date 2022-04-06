@@ -1,4 +1,27 @@
 # marketing-agency-refactor
 
-Refactoring a marketing agency website to use semantic HTML.
+## Task
+
+I refactored a marketing agency website to meet a certain set of standards and to implement new technology to make the existing site more accessible.
+
+## Improvements made
+
+For this webpage i ensured that all the links where functioning in the nav bar correctly.
+
+I added semantic HTML elements to the source code.
+
+I organized the semantic structure of the html elements and included comments before each element and section of the page to the source code.
+
+_increased the efficiency of the css by consolidating the selectors and properties_
+
+Added alt attributes to all images.
+
+Ensured that the heading attributes followed a sequential order.
+
+I gave the title element a concise and descriptive title.
+
+The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+
+link to deployed application:
+
 link to GitHub page:
