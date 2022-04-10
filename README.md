@@ -38,7 +38,7 @@ As you can see from the screenshots the webpage looks the same other than the ch
 
 link to deployed application: http://127.0.0.1:5500/index.html
 
-link to GitHub page:
+link to GitHub page:https://github.com/Mkn01/marketing-agency-refactor
 
 ## Technologies
 
