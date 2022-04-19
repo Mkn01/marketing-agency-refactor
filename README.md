@@ -36,7 +36,7 @@ C:\Users\Gurmanpreet Nagra\coding_bootcamp\homeworks\marketing-agency-refactor\a
 
 As you can see from the screenshots the webpage looks the same other than the change in the title of the webpage in the tab bar. The changes made to the webpage was in the semantic HTML so it is the code to allow the webpage to function correctly. These changes can be seen by viewing the deployed application.
 
-link to deployed application: http://127.0.0.1:5500/index.html
+link to deployed application: https://mkn01.github.io/marketing-agency-refactor/
 
 link to GitHub page:https://github.com/Mkn01/marketing-agency-refactor
 
