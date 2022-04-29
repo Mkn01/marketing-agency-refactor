@@ -26,15 +26,12 @@ I gave the title element a concise and descriptive title.
 
 Before webpage screenshots
 
-C:\Users\Gurmanpreet Nagra\coding_bootcamp\homeworks\marketing-agency-refactor\assets\images\horizon before 1.png
-C:\Users\Gurmanpreet Nagra\coding_bootcamp\homeworks\marketing-agency-refactor\assets\images\horizon before 2.png
+assets\images\horizon before 1.png
+assets\images\horizon before 2.png
 
 After webpage screenshots
 
-C:\Users\Gurmanpreet Nagra\coding_bootcamp\homeworks\marketing-agency-refactor\assets\images\Horizon after 1.png
-C:\Users\Gurmanpreet Nagra\coding_bootcamp\homeworks\marketing-agency-refactor\assets\images\horizon after 2.png
-
-As you can see from the screenshots the webpage looks the same other than the change in the title of the webpage in the tab bar. The changes made to the webpage was in the semantic HTML so it is the code to allow the webpage to function correctly. These changes can be seen by viewing the deployed application.
+assets\images\After horizon.png
 
 link to deployed application: http://127.0.0.1:5500/index.html
 
