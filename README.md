@@ -33,7 +33,7 @@ After webpage screenshots
 
 assets\images\After horizon.png
 
-link to deployed application: http://127.0.0.1:5500/index.html
+link to deployed application: https://mkn01.github.io/marketing-agency-refactor/
 
 link to GitHub page:https://github.com/Mkn01/marketing-agency-refactor
 
