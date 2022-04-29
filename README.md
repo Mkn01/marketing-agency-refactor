@@ -26,8 +26,9 @@ I gave the title element a concise and descriptive title.
 
 Before webpage screenshots
 
-assets\images\horizon before 1.png
-assets\images\horizon before 2.png
+.\assets\images\horizon before 1.png
+
+.\assets\images\horizon before 2.png
 
 After webpage screenshots
 
@@ -35,7 +36,7 @@ assets\images\After horizon.png
 
 link to deployed application: https://mkn01.github.io/marketing-agency-refactor/
 
-link to GitHub page:https://github.com/Mkn01/marketing-agency-refactor
+link to GitHub page:https://github.com/Mkn01/marketing-agency-refactor/tree/dev
 
 ## Technologies
 
